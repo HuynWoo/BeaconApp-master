@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="temp">xxxxx</string>
+    <string name="major_label">Major: </string>
+    <string name="minor_label">Minor: </string>
+    <string name="tx_label">Tx Power: </string>
+    <string name="rssi_label">RSSI: </string>
+    <string name="proximity_label">Proximity: </string>
+    <string name="accuracy_label">meters</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
